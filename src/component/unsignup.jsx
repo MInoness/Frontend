@@ -49,7 +49,7 @@ export default function Unsignup() {
             <br />
             <div>
                 <button className='bottomButton' onClick={handleButtonClick}>
-                    메인으로
+                    로그인
                 </button>
             </div>
         </div>
