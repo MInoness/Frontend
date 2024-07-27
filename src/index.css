@@ -212,7 +212,7 @@
   margin-top:10px;
   background-color: #253b08;
   border: 1px solid #253b08;
-
+  align-items: center; 
 }
 
 /*인풋 박스 클릭 시*/
